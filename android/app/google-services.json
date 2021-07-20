@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "922990666040",
+    "project_id": "paud-mc",
+    "storage_bucket": "paud-mc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922990666040:android:5758067ff84f7d8183a1cd",
+        "android_client_info": {
+          "package_name": "com.example.paud_mc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922990666040-jausig6s5kluknoji74vaa2ejr48ujln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQl-wSL16e9NpCwwf8TtyjG4UExFhTYKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922990666040-jausig6s5kluknoji74vaa2ejr48ujln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
